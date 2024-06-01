@@ -1,0 +1,58 @@
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\OpenGL_lesson_CSharp.exe.config
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\OpenGL_lesson_CSharp.exe
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\OpenGL_lesson_CSharp.pdb
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.dll
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.SceneGraph.dll
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.WinForms.dll
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.pdb
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.xml
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.SceneGraph.pdb
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.SceneGraph.xml
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.WinForms.pdb
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.WinForms.xml
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.csprojResolveAssemblyReference.cache
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.Properties.Resources.resources
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.SharpGLForm.resources
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.csproj.GenerateResource.Cache
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.exe
+c:\users\duma_vg\documents\visual studio 2013\Projects\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.pdb
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\OpenGL_lesson_CSharp.exe.config
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\OpenGL_lesson_CSharp.exe
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\OpenGL_lesson_CSharp.pdb
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.dll
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.WinForms.dll
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.pdb
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.xml
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.WinForms.xml
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.Properties.Resources.resources
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.SharpGLForm.resources
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.csproj.CopyComplete
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.exe
+C:\Users\PC\Downloads\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.pdb
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\OpenGL_lesson_CSharp.exe.config
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\OpenGL_lesson_CSharp.exe
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\OpenGL_lesson_CSharp.pdb
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.dll
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.WinForms.dll
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.pdb
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.xml
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\bin\Debug\SharpGL.WinForms.xml
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.Properties.Resources.resources
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.SharpGLForm.resources
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.csproj.CopyComplete
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.exe
+C:\Users\PC\Desktop\лучшие 4 года (хаха)\4 семестр\КГ\3 лр\OpenGL_lesson_CSharp\OpenGL_lesson_CSharp\obj\x86\Debug\OpenGL_lesson_CSharp.pdb
